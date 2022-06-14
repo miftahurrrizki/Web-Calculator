@@ -50,7 +50,7 @@ body {
 .operator,
 .negative,
 .equals {
-   background: orange;
+   background: rgb(217, 87, 12);
 }
 
 .card {
@@ -86,7 +86,7 @@ td {
 }
 
 th {
-   background-color: orange;
+   background-color: rgb(217, 87, 12);
    color: white;
 }
  
